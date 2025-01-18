@@ -1,0 +1,3 @@
+- https://github.com/braeden-kelly/codemash2025-from-small-screens-to-everywhere-patterns-for-universal-apps-with-expo-router-slides/blob/main/README.md
+- https://github.com/keith-kurak
+- https://discord.com/channels/1127340805741359164/1327991267124183091
